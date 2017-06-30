@@ -1,5 +1,5 @@
 # Demo for CoreML and Vision framework
-https://github.com/ReusRk/ScaryCam
+
 ![Intro Image](intro.gif)
 
 ## Usage
